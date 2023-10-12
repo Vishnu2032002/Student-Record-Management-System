@@ -1,0 +1,10 @@
+
+.world
+{
+	position:fixed;
+	top:150px;
+	right:500px;
+	
+	background-repeat:none;
+	background-size:cover;
+}
